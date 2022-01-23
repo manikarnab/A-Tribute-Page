@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+   color: black;
+   background-color: grey;
+  
+}
+
+
+.txt{
+   align-items: center;
+  justify-items: center;
+  
+   
+}
+.txt h1{
+    padding-left: 42%;
+}
+
+.txt h2{
+    padding-left: 45%;
+    margin: 25px;
+
+}
+
+.txt h3{
+   margin: 25px;
+   padding-left: 37%;
+
+}
+
+.thumbnil{
+    margin: -54px;
+    padding: 84px;
+}
+
+.thumbnill{
+
+    padding-left: 37%;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.txt-1{
+    padding-left: 42%;
+    border: 1px solid black;
+    
+}
+.txt-2 h3{
+    text-size-adjust: 1px;
+}
+footer{
+    color: black;
+    background-color: grey;
+   
+}
